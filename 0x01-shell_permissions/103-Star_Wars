@@ -1,0 +1,2 @@
+#!/bin/bash
+telnet 5e.starwars.com
